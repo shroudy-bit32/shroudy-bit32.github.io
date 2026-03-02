@@ -1,2 +1,2 @@
-# shroudy-bit32.github.io
-shroudy-bit32 homepage
+# ADS-352 dersi
+ders için örnek site oluşturma deposudur.
